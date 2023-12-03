@@ -582,6 +582,13 @@ html, body {
     font-size: 15px;
 }
 
+.cvlogo_img{
+    position: absolute;
+    top: 470px;
+    left: 440px;
+    width: 70px;
+}
+
 .about_img{
     margin: auto;
     position:relative;
